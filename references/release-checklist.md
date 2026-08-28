@@ -19,7 +19,7 @@
 
 ## Visual
 
-- 2160×5760 PNG verified.
+- Export PNG dimensions match the artifact's declared native canvas (the ANKNI mind-map example is 3840×14400).
 - No overflow, failed images, footer overlap, or unreadably compressed text.
 - Product-derived tokens are documented.
 - Font fallbacks support Simplified Chinese.

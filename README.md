@@ -12,7 +12,7 @@ This skill fixes the analysis sequence and the evidence language, then renders t
 
 ## Public communication-map example
 
-The repository also includes a public-facing 2160×7680 branch map for product inquiry handling. It shows how to move from an incoming question to user/scene identification, pain-based discovery, nine conversation branches, concern handling, and a clear sales close.
+The repository also includes a public-facing 3840×14400 mind map for product inquiry handling. It shows how to move from an incoming question to user/scene identification, pain-based discovery, nine conversation branches, concern handling, and a clear sales close.
 
 [Open the responsive HTML](examples/ankni-fragrance-lubricant-inbound-map.html)
 
