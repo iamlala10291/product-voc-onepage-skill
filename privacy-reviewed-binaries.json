@@ -4,6 +4,11 @@
       "path": "assets/preview.png",
       "sha256": "944dfaed6d5fc5db6b9e5b3476df4ea3eebc2cb50ec025dcad4f989b0bde8363",
       "source": "Rendered locally from the repository fictional example configuration and auditable HTML template"
+    },
+    {
+      "path": "examples/ankni-fragrance-lubricant-inbound-map-4k.png",
+      "sha256": "4cd8fdf2c2fc7c19ed488ad2bbdede403f1c7bb69c1fc3353a93728070f0fe5f",
+      "source": "Rendered locally from the repository public product communication-map HTML after privacy and claim-boundary review"
     }
   ]
 }

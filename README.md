@@ -10,6 +10,14 @@ This skill fixes the analysis sequence and the evidence language, then renders t
 
 ![Fictional 2160×5760 example](assets/preview.png)
 
+## Public communication-map example
+
+The repository also includes a public-facing 2160×5760 branch map for product inquiry handling. It shows how to move from an incoming question to user/scene identification, pain-based discovery, nine conversation branches, concern handling, and a clear sales close.
+
+[Open the responsive HTML](examples/ankni-fragrance-lubricant-inbound-map.html)
+
+![ANKNI fragrance lubricant inbound communication map](examples/ankni-fragrance-lubricant-inbound-map-4k.png)
+
 ## Fixed report structure
 
 1. Management conclusion
@@ -45,11 +53,10 @@ When a product ID or link is available, inspect the official detail page in an a
 
 ## Privacy
 
-This repository contains only a fictional example. Do not commit customer conversations, customer identifiers, order numbers, internal URLs, local filesystem paths, BI exports, cookies, tokens, or proprietary evidence files.
+This repository contains a fictional analytical example and a public-facing product communication example. Neither contains customer conversations, customer identifiers, order numbers, internal URLs, local filesystem paths, BI exports, cookies, tokens, or proprietary evidence files.
 
 Binary assets fail the privacy scan by default. A reviewed asset is accepted only when its SHA-256 exactly matches `privacy-reviewed-binaries.json`; any image change requires renewed review.
 
 ## License
 
 MIT
-
